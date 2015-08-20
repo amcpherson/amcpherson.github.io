@@ -1,0 +1,13 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+redcarpet:
+  extensions: ['no_intra_emphasis', 'fenced_code_blocks', 'autolink', 'tables', 'with_toc_data', 'smart']
+
+# Setup
+title:            Andrew McPherson
+tagline:          'Computing Science PhD'
+description:      'Computing Science PhD'
+url:              http://amcpherson.gihub.io
+baseurl:          /
+

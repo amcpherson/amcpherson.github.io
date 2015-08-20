@@ -1,0 +1,142 @@
+/*
+ * Contents
+ *
+ * Sidebar
+ * Container
+ * Reverse layout
+ * Themes
+ */
+
+html {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.first_author {
+  color: #5151C9;
+  background-color:#F0F0F0;
+  font-size:0.75em;
+}
+
+.journal_article {
+  color: #CC5252;
+  background-color:#F0F0F0;
+  font-size:0.75em;
+}
+
+.published_abstract {
+  color: #8FCC52;
+  background-color:#F0F0F0;
+  font-size:0.75em;
+}
+
+.conference_talk {
+  color: #52CCCC;
+  background-color:#F0F0F0;
+  font-size:0.75em;
+}
+
+.best_paper_award {
+  color: #8F52CC;
+  background-color:#F0F0F0;
+  font-size:0.75em;
+}
+
+/*
+ For nicer looking icons
+*/
+
+img {
+  display: inline;
+  max-width: 100%;
+  margin: 0 0 0rem;
+}
+
+/*
+ * Sidebar
+ *
+ * Flexible banner for housing site name, intro, and "footer" content. Starts
+ * out above content in mobile and later moves to the side with wider viewports.
+ */
+
+.sidebar {
+  text-align: center;
+  padding: 2rem 1rem;
+}
+@media (min-width: 48em) {
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 18rem;
+    text-align: left;
+  }
+}
+
+/* About section */
+.sidebar-about h1 {
+  margin-top: 0;
+  font-size: 2.5rem;
+}
+
+/* Sidebar nav */
+.sidebar-nav {
+  margin-bottom: 1rem;
+}
+.sidebar-nav-item {
+  display: block;
+  line-height: 1.75;
+}
+a.sidebar-nav-item:hover,
+a.sidebar-nav-item:focus {
+  text-decoration: underline;
+}
+.sidebar-nav-item.active {
+  font-weight: bold;
+}
+
+/* Sticky sidebar
+ *
+ * Add the `sidebar-sticky` class to the sidebar's container to affix it the
+ * contents to the bottom of the sidebar in tablets and up.
+ */
+
+@media (min-width: 48em) {
+  .sidebar-sticky {
+    position: absolute;
+    right:  1rem;
+    top: 10rem;
+    left:   1rem;
+  }
+}
+
+
+/* Container
+ *
+ * Align the contents of the site above the proper threshold with some margin-fu
+ * with a 25%-wide `.sidebar`.
+ */
+
+.content {
+  max-width: 48rem;
+  padding-top:    4rem;
+  padding-bottom: 4rem;
+}
+
+@media (min-width: 48em) {
+  .content {
+    margin-left: 20rem;
+    margin-right: 2rem;
+  }
+}
+
+@media (min-width: 64em) {
+  .content {
+    margin-left: 22rem;
+    margin-right: 4rem;
+  }
+}
+
+
