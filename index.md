@@ -7,6 +7,8 @@ title: Home
 I recently defended a Computing Science PhD at Simon Fraser University. 
 I currently work in the Shah Lab for Computational Biology.**
 
+Click [here](cv.pdf) for a PDF version of my CV.
+
  ***
 
 # Summary
@@ -52,7 +54,7 @@ I have developed several software packages for analysis of sequencing data inclu
 |          |     |
 | -------- | --- |
 | **2015** | Ph.D Computing Science, Simon Fraser University (defended) |
-| **2002** | B.A.Sc. Honors, Engineering, Simon Fraser University |
+| **2002** | B.A.Sc. Honors, Engineering Science, Simon Fraser University |
 
  ***
 
