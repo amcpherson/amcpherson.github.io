@@ -46,6 +46,7 @@ I have developed several software packages for analysis of sequencing data inclu
 * [deFuse](https://bitbucket.org/dranew/defuse)
 * [deStruct](https://bitbucket.org/dranew/destruct)
 * [nFuse](https://code.google.com/p/nfuse/)
+* [ReMixT](https://bitbucket.org/dranew/remixt)
 
  ***
 
