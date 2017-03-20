@@ -57,6 +57,9 @@ title: Publications
 
 bib_df = bib_df.merge(title_order).sort('SORT_ORDER')
 
+# Missing url as empty string
+bib_df['bdsk-url-1'] = bib_df['bdsk-url-1'].fillna('')
+
 for title, entries in bib_df.groupby('title', sort=False):
 
     entries = entries.sort('ENTRYTYPE')

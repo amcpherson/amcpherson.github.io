@@ -6,6 +6,42 @@ title: Publications
 # Publications
 
 
+## Genomic consequences of aberrant DNA repair mechanisms stratify ovarian cancer histotypes
+Wang YK, Bashashati A, Anglesio MS, Cochrane DR, Grewal DS, Ha G, __McPherson A__, Horlings HM, Senz J, Prentice L, Karnezis AN, Lai D, Aniba MR, Zhang A, Shumansky K, Siu C, McConechy MK, Li-Chang H, Tone A, Provencher D, Ladurantaye Md, Fleury H, Okamoto A, Yanagida S, Yanaihara N, Saito M, Mungall A, Moore R, Marra MA, Gilks CB, Mes-Masson A, McAlpine J, Aparicio S, Huntsman DG, Shah SP  
+[Nat Genet (under review), Mar 2017
+]()
+  
+
+## ReMixT: Accurate Estimation of Clone Specific Genomic Structure
+__McPherson AW__, Roth A, Ha G, Chauve C, Steif A, de Souza C, Eirew P, Bouchard-Cote A, Aparicio S, Sahinalp SC, Shah SP  
+[Genome Biol (under review), Mar 2017
+]()
+&nbsp; <span class=first_author>First Author</span>   
+
+## Histological Transformation and Progression in Follicular Lymphoma: A Clonal Evolution Study
+Kridel R, Chan FC, Mottok A, Boyle M, Farinha P, Tan K, Meissner B, Bashashati A, __McPherson A__, Roth A, Shumansky K, Yap D, Ben-Neriah S, Rosner J, Smith MA, Nielsen C, Gin&#233; E, Telenius A, Ennishi D, Mungall A, Moore R, Morin RD, Johnson NA, Sehn LH, Tousseyn T, Dogan A, Connors JM, Scott DW, Steidl C, Marra MA, Gascoyne RD, Shah SP  
+[PLoS Med, Dec 2016
+](http://dx.doi.org/10.1371/journal.pmed.1002197)
+&nbsp; <span class=journal_article>Journal Article</span>   
+
+## Clonal genotype and population structure inference from single-cell tumor sequencing
+Roth A, __McPherson A__, Laks E, Biele J, Yap D, Wan A, Smith MA, Nielsen CB, McAlpine JN, Aparicio S, Bouchard-C&#244;t&#233; A, Shah SP  
+[Nat Methods, Jul 2016
+](http://dx.doi.org/10.1038/nmeth.3867)
+&nbsp; <span class=journal_article>Journal Article</span>   
+
+## Divergent modes of clonal spread and intraperitoneal mixing in high-grade serous ovarian cancer
+__McPherson A__, Roth A, Laks E, Masud T, Bashashati A, Zhang AW, Ha G, Biele J, Yap D, Wan A, Prentice LM, Khattra J, Smith MA, Nielsen CB, Mullaly SC, Kalloger S, Karnezis A, Shumansky K, Siu C, Rosner J, Chan HL, Ho J, Melnyk N, Senz J, Yang W, Moore R, Mungall AJ, Marra MA, Bouchard-C&#244;t&#233; A, Gilks CB, Huntsman DG, McAlpine JN, Aparicio S, Shah SP  
+[Nat Genet, Jul 2016
+](http://dx.doi.org/10.1038/ng.3573)
+&nbsp; <span class=first_author>First Author</span> &nbsp; <span class=journal_article>Journal Article</span>   
+
+## A survey of best practices for RNA-seq data analysis
+Conesa A, Madrigal P, Tarazona S, Gomez-Cabrero D, Cervera A, __McPherson A__, Szcze&#347;niak MW, Gaffney DJ, Elo LL, Zhang X, Mortazavi A  
+[Genome Biol, Jan 2016
+](http://dx.doi.org/10.1186/s13059-016-0881-8)
+&nbsp; <span class=journal_article>Journal Article</span>   
+
 ## Spatial genomic heterogeneity within localized, multifocal prostate cancer
 Boutros PC, Fraser M, Harding NJ, de Borja R, Trudel D, Lalonde E, Meng A, Hennings-Yeomans PH, __McPherson A__, Sabelnykova VY, Zia A, Fox NS, Livingstone J, Shiah Y, Wang J, Beck TA, Have CL, Chong T, Sam M, Johns J, Timms L, Buchner N, Wong A, Watson JD, Simmons TT, P&#8217;ng C, Zafarana G, Nguyen F, Luo X, Chu KC, Prokopec SD, Sykes J, Dal Pra A, Berlin A, Brown A, Chan-Seng-Yue MA, Yousif F, Denroche RE, Chong LC, Chen GM, Jung E, Fung C, Starmans MHW, Chen H, Govind SK, Hawley J, D&#8217;Costa A, Pintilie M, Waggott D, Hach F, Lambin P, Muthuswamy LB, Cooper C, Eeles R, Neal D, Tetu B, Sahinalp C, Stein LD, Fleshner N, Shah SP, Collins CC, Hudson TJ, McPherson JD, van der Kwast T, Bristow RG  
 [Nat Genet, Jul 2015
