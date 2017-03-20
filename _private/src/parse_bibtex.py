@@ -105,7 +105,7 @@ for title, entries in bib_df.groupby('title', sort=False):
         if 'keyword' in entry and pandas.notnull(entry['keyword']):
             for keyword in entry['keyword'].split('; '):
                 html_class = keyword.replace(' ', '_').lower()
-                sys.stdout.write('&nbsp; <span class={0}>{1}</span> '.format(html_class, keyword))
+                sys.stdout.write('&nbsp;\n<span class="{0}">{1}</span>\n'.format(html_class, keyword))
 
         sys.stdout.write('  \n')
 

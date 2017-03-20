@@ -16,7 +16,8 @@ The resulting manuscript is currently under revision at a top-tier biology journ
 
 ## Related Work Experience
 
-### Research Assistant                    <div style='float:right;'>May 2009 – Present</div> 
+### Research Assistant
+<div style='float:right;'>May 2009 – Present</div>
 
 #### Lab for Computational Biology at SFU
 
@@ -26,7 +27,8 @@ Unpublished methods include deStruct for predicting rearrangements from WGS and 
 
  ***
 
-### Research Assistant                    <div style='float:right;'>May 2009 – Present</div> 
+### Research Assistant
+<div style='float:right;'>May 2009 – Present</div> 
 
 #### Shah Lab for Computational Cancer Biology
 
@@ -38,7 +40,8 @@ These methods were used in studies of clonal evolution in breast cancer, prostat
 
  ***
 
-### Research Assistant                    <div style='float:right;'> Jan. 2009 – April 2009</div>
+### Research Assistant
+<div style='float:right;'> Jan. 2009 – April 2009</div>
 
 #### SFU Brinkman Lab with Fiona Brinkman
 
@@ -46,7 +49,8 @@ Developed a pipeline to find indels in human bacteria homologs to be used as dru
 
  ***
 
-### Research Assistant                    <div style='float:right;'> Sept. 2008 – Dec. 2008</div>
+### Research Assistant
+<div style='float:right;'> Sept. 2008 – Dec. 2008</div>
 
 #### BC Genome Science Centre with Marco Marra
 
@@ -54,7 +58,8 @@ Developed a pipeline for the analysis of small RNA reads and analyzed the sequen
 
  ***
 
-### Research Assistant                    <div style='float:right;'> May 2008 – Aug. 2008</div>
+### Research Assistant
+<div style='float:right;'> May 2008 – Aug. 2008</div>
 
 #### SFU Mathematics Department with Cedric Chauve
 
@@ -64,7 +69,8 @@ Developed a pipeline for inferring Contiguous Ancestral Regions (CARs) in ancest
 
 ## Additional Work Experience
 
-### Software Engineer                    <div style='float:right;'> April 2005 – Sept. 2007</div>
+### Software Engineer
+<div style='float:right;'> April 2005 – Sept. 2007</div>
 
 #### Electronic Arts, Vancouver, BC, Canada
 
@@ -72,7 +78,8 @@ Lead Playstation 2 Programmer for two of EA’s biggest selling titles, Need for
 
  ***
 
-### Game Technology Engineer             <div style='float:right;'> Oct. 2002 – Nov. 2004</div>
+### Game Technology Engineer
+<div style='float:right;'> Oct. 2002 – Nov. 2004</div>
 
 #### Argonaut Software Ltd, Edgware, Middlesex, United Kingdom
 
