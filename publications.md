@@ -10,12 +10,24 @@ title: Publications
 Wang YK, Bashashati A, Anglesio MS, Cochrane DR, Grewal DS, Ha G, __McPherson A__, Horlings HM, Senz J, Prentice L, Karnezis AN, Lai D, Aniba MR, Zhang A, Shumansky K, Siu C, McConechy MK, Li-Chang H, Tone A, Provencher D, Ladurantaye Md, Fleury H, Okamoto A, Yanagida S, Yanaihara N, Saito M, Mungall A, Moore R, Marra MA, Gilks CB, Mes-Masson A, McAlpine J, Aparicio S, Huntsman DG, Shah SP  
 [Nat Genet (under review), Mar 2017
 ]()
+&nbsp;
+<span class="journal_article">Journal Article</span>
   
 
 ## ReMixT: Accurate Estimation of Clone Specific Genomic Structure
 __McPherson AW__, Roth A, Ha G, Chauve C, Steif A, de Souza C, Eirew P, Bouchard-Cote A, Aparicio S, Sahinalp SC, Shah SP  
 [Genome Biol (under review), Mar 2017
 ]()
+&nbsp;
+<span class="first_author">First Author</span>
+&nbsp;
+<span class="journal_article">Journal Article</span>
+  
+
+## deStruct: Accurate Rearrangement Detection using Breakpoint Specific Realignment
+__McPherson A__, Shah SP, Sahinalp SC  
+[bioRxiv, Mar 2017
+](http://dx.doi.org/10.1101/117523)
 &nbsp;
 <span class="first_author">First Author</span>
   
